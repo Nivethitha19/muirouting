@@ -1,0 +1,30 @@
+*{
+   font-family: 'Roboto', sans-serif;;
+}
+
+
+.loginpage{
+  margin: 10px;
+  width: 100%;
+}
+
+.dashboard{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.register{
+  box-shadow: 0 0 0 2px lightgray;
+  width:50%;
+  margin: 30px auto;
+}
+.Content{
+  width: 70%;
+  margin: 50px auto;
+}
+
+.red{
+  color: red;
+}
